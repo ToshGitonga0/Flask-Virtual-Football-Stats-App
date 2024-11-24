@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>FOOTBALL STATS BOT</title>
+    <!-- Flask automatically serves files from the static folder -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='home.css') }}">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <!-- Updated logo image path -->
+                <img src="{{ url_for('static', filename='pics/logo.png') }}" alt="Company Logo" class="logo-img">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <div class="hero-content">
+            <h1>Virtual Football Analysis</h1>
+            <p>Power of data to analyze performance and make informed decisions</p>
+            <a href="/results" class="cta-button">Get Stats</a>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <div class="service-boxes">
+                <!-- Updated service image paths -->
+                <div class="service-box">
+                    <img src="{{ url_for('static', filename='pics/service1.jpg') }}" alt="Service 1">
+                    <h3>Matches Outcomes</h3>
+                    <p>Stay up-to-date with the latest match outcomes, including scores, results, and highlights from ongoing football matches.</p>
+                </div>
+                <div class="service-box">
+                    <img src="{{ url_for('static', filename='pics/service2.jpg') }}" alt="Service 2">
+                    <h3>League Statistics</h3>
+                    <p>Get detailed league statistics, such as player performance, team rankings, and overall league standings for all major football competitions.</p>
+                </div>
+                <div class="service-box">
+                    <img src="{{ url_for('static', filename='pics/service3.jpg') }}" alt="Service 3">
+                    <h3>Top 3 best teams</h3>
+                    <p>Discover the top three teams based on current form, wins, and overall performance in their respective leagues and competitions.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>We are a dedicated team focused on providing the best solutions for your needs. With years of experience, we strive to exceed expectations with every project.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <form action="#" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+
+                <button type="submit" class="cta-button">Send Message</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Your Company Name | All Rights Reserved</p>
+            <div class="social-links">
+                <!-- Updated social media icons paths -->
+                <a href="#"><img src="{{ url_for('static', filename='pics/facebook-icon.png') }}" alt="Facebook"></a>
+                <a href="#"><img src="{{ url_for('static', filename='pics/twitter-icon.png') }}" alt="Twitter"></a>
+                <a href="#"><img src="{{ url_for('static', filename='pics/linkedin-icon.png') }}" alt="LinkedIn"></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+
+

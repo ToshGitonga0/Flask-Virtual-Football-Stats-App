@@ -1,0 +1,381 @@
+time,home_team,away_team,home_score,away_score
+19:44,Southampton,Wolves,1,3
+19:44,Newcastle,Liverpool,1,0
+19:44,Palace,London Blues,1,2
+19:44,West Brom,Leeds,0,0
+19:44,Fulham,Leicester,0,1
+19:44,Manchester Reds,Brighton,2,0
+19:44,Aston V,Manchester Blue,1,1
+19:44,Everton,London Reds,2,1
+19:44,Tottenham,Sheffield U,0,2
+19:44,Burnley,West Ham,3,1
+19:42,West Ham,Everton,1,0
+19:42,London Blues,Manchester Reds,2,2
+19:42,Leeds,London Reds,1,3
+19:42,Manchester Blue,Tottenham,3,2
+19:42,Liverpool,Fulham,1,3
+19:42,Leicester,West Brom,0,1
+19:42,Wolves,Burnley,2,1
+19:42,Brighton,Newcastle,2,2
+19:42,Aston V,Palace,2,0
+19:42,Sheffield U,Southampton,1,0
+19:40,Southampton,Manchester Blue,0,1
+19:40,Tottenham,Aston V,0,2
+19:40,Fulham,Brighton,2,0
+19:40,London Reds,Leicester,1,0
+19:40,Newcastle,London Blues,1,2
+19:40,Palace,Manchester Reds,1,2
+19:40,Burnley,Sheffield U,1,1
+19:40,Everton,Wolves,0,1
+19:40,Leeds,West Ham,2,0
+19:40,West Brom,Liverpool,0,2
+19:38,Liverpool,London Reds,6,0
+19:38,Wolves,Leeds,2,0
+19:38,Tottenham,Palace,1,1
+19:38,Manchester Blue,Burnley,3,2
+19:38,Manchester Reds,Newcastle,1,1
+19:38,Leicester,West Ham,3,0
+19:38,Brighton,West Brom,1,2
+19:38,Aston V,Southampton,2,3
+19:38,Sheffield U,Everton,1,0
+19:38,London Blues,Fulham,4,0
+19:36,Southampton,Tottenham,1,2
+19:36,Leicester,Wolves,0,1
+19:36,West Ham,Liverpool,1,0
+19:36,Everton,Manchester Blue,1,2
+19:36,Fulham,Manchester Reds,2,1
+19:36,London Reds,Brighton,2,1
+19:36,West Brom,London Blues,1,2
+19:36,Leeds,Sheffield U,2,1
+19:36,Palace,Newcastle,1,1
+19:36,Burnley,Aston V,2,1
+19:34,Aston V,Everton,3,0
+19:34,London Blues,London Reds,3,1
+19:34,Sheffield U,Leicester,1,0
+19:34,Tottenham,Burnley,1,1
+19:34,Newcastle,Fulham,0,0
+19:34,Brighton,West Ham,0,0
+19:34,Manchester Blue,Leeds,1,2
+19:34,Southampton,Palace,1,0
+19:34,Manchester Reds,West Brom,0,1
+19:34,Liverpool,Wolves,2,0
+19:32,Leicester,Manchester Blue,0,4
+19:32,West Ham,London Blues,2,0
+19:32,London Reds,Manchester Reds,3,2
+19:32,Leeds,Aston V,0,1
+19:32,Everton,Tottenham,0,1
+19:32,Palace,Fulham,0,2
+19:32,West Brom,Newcastle,1,1
+19:32,Burnley,Southampton,2,2
+19:32,Liverpool,Sheffield U,2,1
+19:32,Wolves,Brighton,3,1
+19:30,Manchester Reds,West Ham,3,1
+19:30,Manchester Blue,Liverpool,2,2
+19:30,Tottenham,Leeds,1,1
+19:30,Southampton,Everton,1,0
+19:30,Brighton,Sheffield U,0,1
+19:30,Fulham,West Brom,1,4
+19:30,Aston V,Leicester,2,2
+19:30,Newcastle,London Reds,2,1
+19:30,Burnley,Palace,0,1
+19:30,London Blues,Wolves,4,2
+19:28,Liverpool,Aston V,3,1
+19:28,Leeds,Southampton,1,1
+19:28,Wolves,Manchester Reds,0,3
+19:28,Brighton,Manchester Blue,1,0
+19:28,Palace,West Brom,1,1
+19:28,Everton,Burnley,0,1
+19:28,Leicester,Tottenham,2,0
+19:28,Sheffield U,London Blues,0,3
+19:28,London Reds,Fulham,1,1
+19:28,West Ham,Newcastle,0,2
+19:26,Manchester Reds,Sheffield U,1,2
+19:26,Fulham,West Ham,1,1
+19:26,Newcastle,Wolves,0,1
+19:26,Southampton,Leicester,0,1
+19:26,West Brom,London Reds,0,1
+19:26,Burnley,Leeds,2,0
+19:26,Everton,Palace,3,0
+19:26,Aston V,Brighton,1,2
+19:26,Tottenham,Liverpool,2,4
+19:26,London Blues,Manchester Blue,0,1
+19:24,Manchester Blue,Manchester Reds,0,0
+19:24,Liverpool,Southampton,1,0
+19:24,London Blues,Aston V,2,1
+19:24,Leicester,Burnley,1,1
+19:24,Leeds,Everton,1,1
+19:24,Sheffield U,Newcastle,2,2
+19:24,Palace,London Reds,2,1
+19:24,Brighton,Tottenham,0,1
+19:24,West Ham,West Brom,1,0
+19:24,Wolves,Fulham,2,1
+19:22,Tottenham,London Blues,1,0
+19:22,London Reds,West Ham,1,0
+19:22,Manchester Reds,Aston V,1,1
+19:22,Fulham,Sheffield U,1,0
+19:22,Everton,Leicester,2,1
+19:22,Newcastle,Manchester Blue,1,4
+19:22,West Brom,Wolves,3,1
+19:22,Leeds,Palace,1,2
+19:22,Burnley,Liverpool,0,0
+19:22,Southampton,Brighton,1,0
+19:20,Liverpool,Everton,3,1
+19:20,London Blues,Southampton,1,2
+19:20,Manchester Reds,Tottenham,3,0
+19:20,Manchester Blue,Fulham,4,1
+19:20,Brighton,Burnley,1,1
+19:20,Palace,West Ham,4,2
+19:20,Wolves,London Reds,1,2
+19:20,Leicester,Leeds,2,1
+19:20,Sheffield U,West Brom,4,1
+19:20,Aston V,Newcastle,2,1
+19:18,Southampton,Manchester Reds,2,1
+19:18,Leeds,Liverpool,1,3
+19:18,London Reds,Sheffield U,2,1
+19:18,Everton,Brighton,3,0
+19:18,Fulham,Aston V,2,2
+19:18,West Brom,Manchester Blue,0,2
+19:18,West Ham,Wolves,2,0
+19:18,Leicester,Palace,3,1
+19:18,Burnley,London Blues,1,2
+19:18,Newcastle,Tottenham,2,1
+19:16,London Blues,Everton,2,1
+19:16,Manchester Blue,London Reds,2,1
+19:16,Aston V,West Brom,1,0
+19:16,Manchester Reds,Burnley,2,1
+19:16,Newcastle,Southampton,4,1
+19:16,Sheffield U,West Ham,1,1
+19:16,Tottenham,Fulham,2,0
+19:16,Liverpool,Leicester,1,0
+19:16,Palace,Wolves,2,1
+19:16,Brighton,Leeds,2,1
+19:14,West Ham,Manchester Blue,0,3
+19:14,Everton,Manchester Reds,0,3
+19:14,Leeds,London Blues,1,3
+19:14,London Reds,Aston V,2,2
+19:14,Leicester,Brighton,3,1
+19:14,Fulham,Southampton,2,2
+19:14,Burnley,Newcastle,4,2
+19:14,West Brom,Tottenham,0,1
+19:14,Liverpool,Palace,1,1
+19:14,Wolves,Sheffield U,2,0
+19:12,Tottenham,London Reds,3,0
+19:12,Leicester,Wolves,1,3
+19:12,Aston V,Manchester Blue,1,2
+19:12,Liverpool,West Ham,3,1
+19:12,Manchester Reds,Palace,0,0
+19:12,West Brom,Sheffield U,0,2
+19:12,Burnley,Newcastle,0,0
+19:12,Everton,Brighton,0,0
+19:12,Fulham,Southampton,1,0
+19:12,Leeds,London Blues,1,1
+19:10,West Ham,London Blues,0,2
+19:10,Manchester Blue,Everton,1,1
+19:10,Southampton,West Brom,1,1
+19:10,Wolves,Aston V,2,2
+19:10,Sheffield U,Tottenham,1,2
+19:10,Fulham,Manchester Reds,1,3
+19:10,Palace,Leicester,0,1
+19:10,London Reds,Burnley,0,0
+19:10,Newcastle,Leeds,0,2
+19:10,Brighton,Liverpool,1,3
+19:08,Liverpool,Manchester Blue,5,1
+19:08,Leeds,London Reds,1,1
+19:08,Tottenham,Southampton,1,0
+19:08,Everton,Wolves,1,1
+19:08,Manchester Reds,Leicester,0,1
+19:08,Burnley,Sheffield U,0,0
+19:08,West Ham,Newcastle,4,0
+19:08,Aston V,Palace,1,1
+19:08,West Brom,Fulham,1,1
+19:08,London Blues,Brighton,0,0
+19:06,London Reds,West Ham,1,3
+19:06,Manchester Blue,London Blues,3,1
+19:06,Southampton,Burnley,0,2
+19:06,Palace,Everton,3,1
+19:06,Fulham,Tottenham,1,1
+19:06,Sheffield U,Leeds,3,3
+19:06,Leicester,Aston V,0,1
+19:06,Wolves,Liverpool,0,1
+19:06,West Brom,Manchester Reds,1,3
+19:06,Brighton,Newcastle,0,2
+19:04,Manchester Reds,Aston V,0,1
+19:04,London Blues,Wolves,1,2
+19:04,West Ham,Sheffield U,1,1
+19:04,Tottenham,West Brom,3,1
+19:04,Burnley,Fulham,2,2
+19:04,Leeds,Southampton,1,1
+19:04,Everton,Leicester,1,0
+19:04,Brighton,London Reds,2,1
+19:04,Newcastle,Manchester Blue,0,3
+19:04,Liverpool,Palace,0,2
+19:02,Manchester Blue,London Reds,2,0
+19:02,Aston V,Everton,2,0
+19:02,Tottenham,Manchester Reds,3,2
+19:02,Palace,London Blues,3,1
+19:02,Fulham,Leeds,2,0
+19:02,West Brom,Burnley,3,2
+19:02,Wolves,Newcastle,2,1
+19:02,Southampton,West Ham,4,0
+19:02,Leicester,Liverpool,0,0
+19:02,Sheffield U,Brighton,5,1
+19:00,Liverpool,Aston V,1,0
+19:00,Manchester Reds,Everton,1,1
+19:00,London Blues,Leicester,0,2
+19:00,Newcastle,Palace,1,0
+19:00,Burnley,Tottenham,0,0
+19:00,Manchester Blue,Sheffield U,0,0
+19:00,West Ham,Fulham,1,3
+19:00,Brighton,Southampton,1,3
+19:00,Leeds,West Brom,2,0
+19:00,London Reds,Wolves,1,1
+18:58,Southampton,Manchester Blue,0,1
+18:58,Tottenham,Leeds,2,0
+18:58,Aston V,London Blues,2,1
+18:58,Everton,Liverpool,1,1
+18:58,Burnley,Manchester Reds,1,1
+18:58,West Brom,West Ham,0,1
+18:58,Palace,London Reds,1,1
+18:58,Fulham,Brighton,1,2
+18:58,Leicester,Newcastle,2,0
+18:58,Wolves,Sheffield U,2,3
+18:56,West Ham,Tottenham,1,0
+18:56,London Blues,Everton,0,1
+18:56,Manchester Reds,Liverpool,0,1
+18:56,Leeds,Burnley,1,0
+18:56,London Reds,Leicester,1,2
+18:56,Brighton,West Brom,2,1
+18:56,Newcastle,Aston V,3,2
+18:56,Manchester Blue,Fulham,0,0
+18:56,Wolves,Southampton,0,0
+18:56,Sheffield U,Palace,2,0
+18:54,Liverpool,London Blues,3,0
+18:54,Everton,Newcastle,0,2
+18:54,Fulham,Wolves,0,1
+18:54,West Brom,Manchester Blue,0,1
+18:54,Aston V,London Reds,2,2
+18:54,Burnley,West Ham,0,1
+18:54,Tottenham,Brighton,3,0
+18:54,Palace,Southampton,0,1
+18:54,Leeds,Manchester Reds,0,2
+18:54,Leicester,Sheffield U,3,3
+18:52,London Reds,Everton,0,1
+18:52,Manchester Reds,London Blues,2,2
+18:52,Manchester Blue,Tottenham,2,1
+18:52,Brighton,Burnley,1,3
+18:52,West Ham,Leeds,1,4
+18:52,Wolves,West Brom,1,2
+18:52,Newcastle,Liverpool,1,4
+18:52,Sheffield U,Aston V,1,1
+18:52,Southampton,Leicester,3,0
+18:52,Palace,Fulham,4,0
+18:50,West Ham,Manchester Reds,0,3
+18:50,Liverpool,London Reds,4,2
+18:50,Tottenham,Wolves,0,1
+18:50,Everton,Sheffield U,1,2
+18:50,Aston V,Southampton,1,1
+18:50,Burnley,Manchester Blue,0,3
+18:50,Leicester,Fulham,3,2
+18:50,London Blues,Newcastle,3,1
+18:50,West Brom,Palace,2,3
+18:50,Leeds,Brighton,1,1
+18:48,London Reds,London Blues,1,1
+18:48,Southampton,Everton,2,0
+18:48,Manchester Blue,Leeds,1,0
+18:48,Wolves,Burnley,1,1
+18:48,Brighton,West Ham,0,2
+18:48,Manchester Reds,Newcastle,2,1
+18:48,Fulham,Aston V,2,0
+18:48,Leicester,West Brom,2,0
+18:48,Sheffield U,Liverpool,1,0
+18:48,Palace,Tottenham,1,0
+18:46,West Ham,Manchester Blue,1,3
+18:46,Liverpool,Southampton,3,0
+18:46,Burnley,Palace,1,2
+18:46,Brighton,Manchester Reds,1,0
+18:46,Everton,Fulham,1,1
+18:46,Newcastle,London Reds,1,2
+18:46,Leeds,Wolves,0,1
+18:46,London Blues,Sheffield U,1,0
+18:46,Tottenham,Leicester,1,1
+18:46,Aston V,West Brom,1,1
+18:44,Aston V,Tottenham,0,5
+18:44,Manchester Reds,London Reds,1,3
+18:44,Southampton,London Blues,5,1
+18:44,West Brom,Everton,1,1
+18:44,Manchester Blue,Brighton,1,1
+18:44,Sheffield U,Newcastle,3,1
+18:44,Wolves,West Ham,2,1
+18:44,Palace,Leeds,1,0
+18:44,Leicester,Burnley,4,0
+18:44,Fulham,Liverpool,1,1
+18:42,Manchester Blue,Manchester Reds,2,0
+18:42,Everton,Tottenham,2,2
+18:42,Liverpool,West Brom,3,3
+18:42,Burnley,Aston V,1,2
+18:42,Brighton,Wolves,3,2
+18:42,Newcastle,Southampton,2,0
+18:42,London Reds,Sheffield U,1,0
+18:42,London Blues,Fulham,1,0
+18:42,West Ham,Palace,1,4
+18:42,Leeds,Leicester,1,0
+18:40,Tottenham,Liverpool,3,0
+18:40,Aston V,Leeds,3,1
+18:40,Fulham,Newcastle,3,1
+18:40,Manchester Reds,Sheffield U,1,2
+18:40,Leicester,West Ham,1,0
+18:40,Southampton,London Reds,1,1
+18:40,Wolves,Manchester Blue,1,2
+18:40,West Brom,London Blues,1,2
+18:40,Palace,Brighton,1,2
+18:40,Everton,Burnley,1,0
+18:38,Liverpool,Burnley,2,0
+18:38,London Reds,Fulham,1,2
+18:38,Brighton,Leicester,1,0
+18:38,Sheffield U,Southampton,2,0
+18:38,West Ham,Aston V,0,0
+18:38,London Blues,Tottenham,2,0
+18:38,Newcastle,West Brom,1,1
+18:38,Leeds,Everton,2,1
+18:38,Manchester Blue,Palace,0,0
+18:38,Wolves,Manchester Reds,1,0
+18:36,Manchester Reds,Southampton,1,2
+18:36,Leicester,Manchester Blue,1,0
+18:36,Everton,West Ham,3,0
+18:36,Fulham,Sheffield U,0,2
+18:36,West Brom,London Reds,0,2
+18:36,Liverpool,Leeds,2,1
+18:36,Tottenham,Newcastle,1,3
+18:36,Aston V,Brighton,2,1
+18:36,Palace,Wolves,1,0
+18:36,Burnley,London Blues,2,2
+18:34,Wolves,Leicester,2,0
+18:34,Manchester Blue,Aston V,0,1
+18:34,London Reds,Tottenham,2,0
+18:34,West Ham,Liverpool,2,2
+18:34,London Blues,Leeds,2,2
+18:34,Palace,Manchester Reds,0,1
+18:34,Sheffield U,West Brom,4,0
+18:34,Brighton,Everton,3,0
+18:34,Southampton,Fulham,2,1
+18:34,Newcastle,Burnley,0,2
+18:32,Everton,Manchester Blue,0,2
+18:32,London Blues,West Ham,4,0
+18:32,Liverpool,Brighton,4,1
+18:32,Leicester,Palace,2,1
+18:32,Manchester Reds,Fulham,0,1
+18:32,Leeds,Newcastle,1,1
+18:32,Burnley,London Reds,0,1
+18:32,West Brom,Southampton,1,3
+18:32,Aston V,Wolves,0,2
+18:32,Tottenham,Sheffield U,3,2
+18:30,Southampton,Tottenham,0,1
+18:30,Manchester Blue,Liverpool,2,1
+18:30,London Reds,Leeds,0,1
+18:30,Brighton,London Blues,0,2
+18:30,Sheffield U,Burnley,2,0
+18:30,Palace,Aston V,3,0
+18:30,Newcastle,West Ham,2,2
+18:30,Wolves,Everton,2,1
+18:30,Fulham,West Brom,0,0
+18:30,Leicester,Manchester Reds,0,2

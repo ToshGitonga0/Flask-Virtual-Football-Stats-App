@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enhanced Football Team Stats</title>
+    <link rel="stylesheet" href="static/results.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Football Team Statistics</h1>
+        <p>Discover the performance stats of your favorite teams!</p>
+    </header>
+
+    <!-- Main Content Container -->
+    <div class="container">
+        <!-- Scrollable Stats Section -->
+        <div class="scrollable-container">
+            {% for stat_name, stat_data in {
+                'Total Goals': top_teams_by_total_goals,
+                'Wins': top_teams_by_wins,
+                'Losses': top_teams_by_losses,
+                'Draws': top_teams_by_draws,
+                'Home Goals': top_teams_by_home_goals,
+                'Away Goals': top_teams_by_away_goals,
+                'Average Goals': top_teams_by_avg_goals
+            }.items() %}
+            <!-- Stats Card -->
+            <div class="stats-card">
+                <h2>Top 3 Teams with the Most {{ stat_name }}</h2>
+                <table class="stats-table">
+                    <thead>
+                        <tr>
+                            <th>Rank</th>
+                            <th>Team</th>
+                            <th>{{ stat_name }}</th>
+                            <th>Form</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for team in stat_data %}
+                        <tr>
+                            <td>{{ team.rank }}</td>
+                            <td>{{ team.team }}</td>
+                            <td>{{ team.stat }}</td>
+                            <td><span class="form-badge">{{ team.form }}</span></td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+</body>
+</html>

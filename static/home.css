@@ -1,0 +1,252 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header Styling */
+header {
+    background-color: #008000;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+header .logo img {
+    height: 50px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+header nav ul li {
+    display: inline-block;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Hero Section Styling */
+#hero {
+    /* background: linear-gradient(to bottom, rgba(13, 110, 253, 0.8), rgba(13, 110, 253, 0.6)); */
+    background-image: url('h_bg.jpg'); /* Go up one folder to access 'images' */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding: 0 20px;
+}
+
+#hero .hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Adds depth to text */
+}
+
+#hero .hero-content p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+#hero .cta-button {
+    background-color: #ff5733;
+    color: #fff;
+    padding: 12px 20px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Adds a modern button shadow */
+    transition: transform 0.2s, background-color 0.2s; /* Smooth hover effects */
+}
+
+#hero .cta-button:hover {
+    background-color: #e14d2a;
+    transform: translateY(-3px); /* Subtle lift on hover */
+}
+
+
+/* Services Section Styling */
+#services {
+    background-color: #fff;
+    padding: 50px 20px;
+}
+
+#services .container h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2rem;
+}
+
+#services .service-boxes {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.service-box {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    width: 30%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect to make the box pop up */
+.service-box:hover {
+    transform: translateY(-10px);  /* Moves the box up */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+.service-box img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.service-box h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.service-box p {
+    font-size: 1rem;
+    color: #666;
+}
+
+
+/* About Us Section */
+#about {
+    background: linear-gradient(135deg, #f4f4f4 0%, #e0e0e0 100%);
+    padding: 50px 20px;
+    border-radius: 10px;  /* Softens the edges */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);  /* Adds depth */
+}
+
+#about .container h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2rem;
+    color: #333;
+    font-weight: 700;
+}
+
+#about p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    color: #555;
+    text-align: center; /* Centering the paragraph */
+    transition: color 0.3s ease;
+}
+
+#about p:hover {
+    color: #ff5733;  /* Adds color change on hover */
+}
+
+
+/* Contact Section */
+#contact {
+    background-color: #fff;
+    padding: 50px 20px;
+}
+
+#contact .container h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#contact form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#contact label {
+    font-size: 1rem;
+    margin-bottom: 8px;
+    display: block;
+}
+
+#contact input, #contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#contact button.cta-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #ff5733;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
+
+#contact button.cta-button:hover {
+    background-color: #e14d2a;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 30px 20px;
+    text-align: center;
+    border-top: 3px solid #ff5733;  /* Adds a top border for visual separation */
+}
+
+footer .social-links a {
+    margin: 0 10px;
+    transition: transform 0.3s ease;
+}
+
+footer .social-links a:hover {
+    transform: scale(1.2);  /* Makes icons grow slightly on hover */
+}
+
+footer .social-links img {
+    width: 30px;
+    height: 30px;
+    transition: filter 0.3s ease;
+}
+
+footer .social-links img:hover {
+    filter: brightness(1.2);  /* Slightly brightens the icons on hover */
+}
+
+footer p {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #bbb;
+}
