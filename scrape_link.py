@@ -6,8 +6,8 @@ def scrape_link():
 
     URL = "https://www.odibets.com"
     DRIVER_PATH = "/users/tosh/downloads/chromedriver"
-    OUTPUT_HTML_FILE = "data/odibets.html"
-    OUTPUT_CSV_FILE = "data/odibets.csv"
+    OUTPUT_HTML_FILE = "output/odibets.html"
+    OUTPUT_CSV_FILE = "output/odibets.csv"
 
     LEAGUE_XPATH = "//*[@id='menu-list']/li[4]"
     RESULTS_XPATH = "//*[@id='app']/div/div[5]/div[2]/div/div[2]/div/div[1]/div[1]/div[1]/ul/li[2]"
